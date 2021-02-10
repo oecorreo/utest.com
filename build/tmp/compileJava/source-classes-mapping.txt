@@ -1,0 +1,26 @@
+co/com/utest/userinterface/UTestAddressPage.java
+ co.com.utest.userinterface.UTestAddressPage
+co/com/utest/model/UTestData.java
+ co.com.utest.model.UTestData
+co/com/utest/tasks/Last.java
+ co.com.utest.tasks.Last
+co/com/utest/userinterface/UTestLastPage.java
+ co.com.utest.userinterface.UTestLastPage
+co/com/utest/tasks/OpenUp.java
+ co.com.utest.tasks.OpenUp
+co/com/utest/userinterface/UTestJoinPage.java
+ co.com.utest.userinterface.UTestJoinPage
+co/com/utest/tasks/Personal.java
+ co.com.utest.tasks.Personal
+co/com/utest/tasks/Join.java
+ co.com.utest.tasks.Join
+co/com/utest/userinterface/UTestDevicesPage.java
+ co.com.utest.userinterface.UTestDevicesPage
+co/com/utest/userinterface/UTestPersonalPage.java
+ co.com.utest.userinterface.UTestPersonalPage
+co/com/utest/tasks/Address.java
+ co.com.utest.tasks.Address
+co/com/utest/userinterface/UTestPage.java
+ co.com.utest.userinterface.UTestPage
+co/com/utest/tasks/Devices.java
+ co.com.utest.tasks.Devices
